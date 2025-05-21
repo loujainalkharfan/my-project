@@ -1,6 +1,10 @@
 h1{
+<<<<<<< HEAD
     color: rgb(26, 21, 21);
+=======
+    color: rgb(36, 33, 33);
+>>>>>>> lolo
 }
 body{
-    background-color:rgb(212, 180, 180) ;
+    background-color:rgb(233, 210, 210) ;
 }
